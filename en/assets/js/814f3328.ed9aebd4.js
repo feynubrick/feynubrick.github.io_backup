@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"JS \uc2e4\ud589 \ucee8\ud14d\uc2a4\ud2b8\uc640 \uc2a4\ucf54\ud504 [\ubc88\uc5ed]","permalink":"/en/blog/js-execution-context-and-scope"}]}')}}]);
